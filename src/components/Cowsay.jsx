@@ -141,7 +141,7 @@ export default function () {
 
   const [toggle1, setToggle1] = useToggle(true);
 
-  const [toggle2, setToggle2] = useToggle(true);
+  const [toggle2, setToggle2] = useToggle(false);
 
   const [toggle3, setToggle3] = useToggle(true);
 
